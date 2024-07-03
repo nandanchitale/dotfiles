@@ -1,0 +1,18 @@
+[
+    {
+        "key": "decoration:blur:enabled",
+        "value": false
+    },
+    {
+        "key": "animations:enabled",
+        "value": false
+    },
+    {
+        "key": "general:border_size",
+        "value": 1
+    },
+    {
+        "key": "animations:first_launch_animation",
+        "value": false
+    }
+]
